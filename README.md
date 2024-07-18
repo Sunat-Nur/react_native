@@ -3,6 +3,8 @@
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app). This project is a comprehensive React Native application designed to deliver real-time weather updates and forecasts. The app leverages a variety of modern tools and libraries to ensure a smooth and responsive user experience across both iOS and Android platforms.
 
 
+
+
 ## Key Features:
 
 
@@ -25,6 +27,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 
 
+
+
 ## Technical Stack:
 
 **Frontend:** React Native, Expo
@@ -42,6 +46,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 **Styling:**   Custom styles and expo-linear-gradient for enhanced visual appeal
 
 
+
+
 ## Additional Configuration:
 
 **Babel:** Configured with Babel to ensure compatibility with the latest JavaScript features.
@@ -53,6 +59,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 **Project Scripts:** Custom scripts for project management, including starting the app on various platforms and linting.
 
 This project demonstrates a well-rounded approach to modern mobile app development, focusing on performance, usability, and maintainability.
+
+
 
 ## Get started
 
@@ -80,8 +88,12 @@ It will find options to open the app in a
 
 <img width="303" alt="Screenshot 2024-07-18 at 12 36 32 PM" src="https://github.com/user-attachments/assets/e66b13fb-bfd8-402e-8fde-0026e0d1949d">
 
-<img width="304" alt="Screenshot 2024-07-18 at 12 35 38 PM" src="https://github.com/user-attachments/assets/4bddb1e6-cf27-4836-a4d2-ef6d61a8205d">
 
 <img width="307" alt="Screenshot 2024-07-18 at 12 37 33 PM" src="https://github.com/user-attachments/assets/9e2a3979-fad7-4040-ae79-ad58b0fb877c">
+
+
+<img width="304" alt="Screenshot 2024-07-18 at 12 35 38 PM" src="https://github.com/user-attachments/assets/4bddb1e6-cf27-4836-a4d2-ef6d61a8205d">
+
+
 
 
